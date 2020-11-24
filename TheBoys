@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 EPISODIO 1
+https://www4.cdncv.net/hls/mfqjtgohs3ow6epqw7mu3lqo77d3e4j3m3phh3udyatdd34yxnjwlqldo3ka/index-v1-a1.m3u8
+#EXTINF:0 EPISODIO 2
+https://e28.cdncv.net/hls/mfqjsjggs3ow6epqw7mu3kio6yf72pq3boitiytpg6hkhqa63ur3wq7ljuaa/index-v1-a1.m3u8
+#EXTINF:0 EPISODIO 3
+https://cloud.cdncv.net/hls/mfqj7x6fs3ow6epqw7mu34i35zit454r25goiidhb3oflpi73jsexwjnpw5a/index-v1-a1.m3u8
