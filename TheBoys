@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:0 EPISODIO 1
-https://www4.cdncv.net/hls/mfqjtgohs3ow6epqw7mu3lqo77d3e4j3m3phh3udyatdd34yxnjwlqldo3ka/index-v1-a1.m3u8
-#EXTINF:0 EPISODIO 2
-https://e28.cdncv.net/hls/mfqjsjggs3ow6epqw7mu3kio6yf72pq3boitiytpg6hkhqa63ur3wq7ljuaa/index-v1-a1.m3u8
-#EXTINF:0 EPISODIO 3
-https://cloud.cdncv.net/hls/mfqj7x6fs3ow6epqw7mu34i35zit454r25goiidhb3oflpi73jsexwjnpw5a/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="The Boys" group-tittle="Temporada 1",Episodi 7
+https://cloud.cdncv.net/hls/mfqj7s6ms3ow6epqw7mu3osi4ndutudhhy65y7nn6hklgjtxivjoojrosyja/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="The Boys" group-tittle="Temporada 1",Episodi 8
+https://cloud.cdncv.net/hls/mfqjqj6ss3ow6epqw7mu36qmwyyxlbk676tcl54jvg6wwx635qyar3qzjlpq/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="The Boys" group-tittle="Temporada 2",Episodi 1
+https://www3.cdncv.net/hls/mfqjq7gws3ow6epqw7me37a672mjmmyy62oqrdn7d575wfaurifzethagsiq/index-v1-a1.m3u8
