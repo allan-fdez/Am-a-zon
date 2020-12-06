@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tve-id="GO", group-title="Good Omens",Episodio 5
+https://cheetah.jawcloud.co/hls/baxpdqsymftrdl2gmjj6owp6cvrjgr5sgzqxol6no5m3rous5v2gypwiqefa/index-v1-a1.m3u8
+
+#EXTINF:-1 tve-id="GO", group-title="Good Omens",Episodio 6
+https://tiger.jawcloud.co/hls/baxpomc3mftrdl2gmjjoofn6j3v6npoigqr2dkelefsctrp53n3kzaqadlaa/index-v1-a1.m3u8
